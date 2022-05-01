@@ -1,0 +1,4 @@
+$ npm init
+$ npm install express mongodb body-parser cors
+$ npm install nodemon --save-dev
+$ npm install dotenv
